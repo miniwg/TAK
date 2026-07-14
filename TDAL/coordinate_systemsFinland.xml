@@ -1,0 +1,13 @@
+<CoordinateRefenceSystems>
+	<crs>
+		<name>FIN</name>
+		<title>Kiinteistorekisteri</title>
+		<epsg>3857</epsg>
+		<bounds>
+			<minLongitude>14.33</minLongitude>
+			<minLatitude> 58.99</minLatitude>
+			<maxLongitude>34.68</maxLongitude>
+			<maxLatitude> 70.47</maxLatitude>
+		</bounds>
+	</crs>
+</CoordinateRefenceSystems>

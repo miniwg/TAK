@@ -1,0 +1,13 @@
+<CoordinateRefenceSystems>
+	<crs>
+		<name>S99</name>
+		<title>SWEREF99 TM</title>
+		<epsg>3006</epsg>
+		<bounds>
+			<minLongitude>10.03</minLongitude>
+			<minLatitude> 54.96</minLatitude>
+			<maxLongitude>24.17</maxLongitude>
+			<maxLatitude> 69.07</maxLatitude>
+		</bounds>
+	</crs>
+</CoordinateRefenceSystems>

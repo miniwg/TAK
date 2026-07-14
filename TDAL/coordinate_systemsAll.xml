@@ -1,0 +1,68 @@
+<CoordinateRefenceSystems>
+	<crs>
+		<name>BEL</name>
+		<title>Belgium - Lambert</title>
+		<epsg>3812</epsg>
+		<bounds>
+			<minLongitude>-16.1</minLongitude>
+			<minLatitude>33.26</minLatitude>
+			<maxLongitude>38.01</maxLongitude>
+			<maxLatitude>84.73</maxLatitude>
+		</bounds>
+	</crs>
+	<crs>
+		<name>NL</name>
+		<title>Netherlands - Amersfoort RD New</title>
+		<epsg>28992</epsg>
+		<bounds>
+			<minLongitude>3.2</minLongitude>
+			<minLatitude>50.75</minLatitude>
+			<maxLongitude>7.22</maxLongitude>
+			<maxLatitude>53.7</maxLatitude>
+		</bounds>
+	</crs>
+	<crs>
+		<name>DHDN</name>
+		<title>Deutschland - Gauss-Kruger zone 3</title>
+		<epsg>31467</epsg>
+		<bounds>
+			<minLongitude>5.86</minLongitude>
+			<minLatitude>47.27</minLatitude>
+			<maxLongitude>15.04</maxLongitude>
+			<maxLatitude>55.09</maxLatitude>
+		</bounds>
+	</crs>
+	<crs>
+		<name>ITM</name>
+		<title>Irish Transverse Mercators</title>
+		<epsg>29902</epsg>
+		<bounds>
+			<minLongitude>-10.56</minLongitude>
+			<minLatitude> 51.39</minLatitude>
+			<maxLongitude>-5.45</maxLongitude>
+			<maxLatitude> 55.43</maxLatitude>
+		</bounds>
+	</crs>
+	<crs>
+		<name>S99</name>
+		<title>SWEREF99 TM</title>
+		<epsg>3006</epsg>
+		<bounds>
+			<minLongitude>10.03</minLongitude>
+			<minLatitude> 54.96</minLatitude>
+			<maxLongitude>24.17</maxLongitude>
+			<maxLatitude> 69.07</maxLatitude>
+		</bounds>
+	</crs>
+	<crs>
+		<name>FIN</name>
+		<title>Kiinteistorekisteri</title>
+		<epsg>3857</epsg>
+		<bounds>
+			<minLongitude>14.33</minLongitude>
+			<minLatitude> 58.99</minLatitude>
+			<maxLongitude>34.68</maxLongitude>
+			<maxLatitude> 70.47</maxLatitude>
+		</bounds>
+	</crs>
+</CoordinateRefenceSystems>

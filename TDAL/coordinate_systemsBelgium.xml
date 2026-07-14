@@ -1,0 +1,13 @@
+<CoordinateRefenceSystems>
+	<crs>
+		<name>BEL</name>
+		<title>Belgium - Lambert</title>
+		<epsg>3812</epsg>
+		<bounds>
+			<minLongitude>-16.1</minLongitude>
+			<minLatitude>33.26</minLatitude>
+			<maxLongitude>38.01</maxLongitude>
+			<maxLatitude>84.73</maxLatitude>
+		</bounds>
+	</crs>
+</CoordinateRefenceSystems>

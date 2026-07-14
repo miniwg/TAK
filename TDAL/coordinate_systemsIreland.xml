@@ -1,0 +1,13 @@
+<CoordinateRefenceSystems>
+	<crs>
+		<name>ITM</name>
+		<title>Irish Transverse Mercators</title>
+		<epsg>29902</epsg>
+		<bounds>
+			<minLongitude>-10.56</minLongitude>
+			<minLatitude> 51.39</minLatitude>
+			<maxLongitude>-5.45</maxLongitude>
+			<maxLatitude> 55.43</maxLatitude>
+		</bounds>
+	</crs>
+</CoordinateRefenceSystems>
