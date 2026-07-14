@@ -67,7 +67,7 @@ After adding the services, you need to reload FirewallD to apply the changes:
 ```
 sudo firewall-cmd --reload
 ```
-##7. TDAL
+## 7. TDAL
 This directory contains alternate Coordinate Systems definitions files for use with the ATAK - TDAL plugin.
 To confirm that the services have been added correctly. To check the services enabled on your zone, use:
 ```
