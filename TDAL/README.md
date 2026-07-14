@@ -17,4 +17,4 @@ atak/tools/coordinate_systems/
 `</CoordinateReferenceSystems>` tag, making sure the indentation matches the other <crs> block entries
 - Save the file and restart ATAK
    
-So you should ebnd up with a single file in `atak/tools/coordinate_systems/` called `coordinate_systems.xml`
+So, you should end up with a single file in `atak/tools/coordinate_systems/` called `coordinate_systems.xml`
