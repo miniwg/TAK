@@ -10,10 +10,10 @@ https://play.google.com/store/apps/details?id=com.atakmap.android.bng.plugin
 - Rename the file coordinate_systems.xml
 - Restart ATAK
 3. To add the coordinate system:
--Open the file
--Copy the section between the <crs> and </crs> tags, including the tags
--Open the existing atak/tools/coordinate_systems/coordinate_systems.xml
--Paste the <crs> block just above the:
+- Open the file
+- Copy the section between the <crs> and </crs> tags, including the tags
+- Open the existing atak/tools/coordinate_systems/coordinate_systems.xml
+- Paste the <crs> block just above the:
 </CoordinateReferenceSystems> tag, making sure the indentation matches the other <crs> block entries
--Save the file and restart ATAK
+- Save the file and restart ATAK
    
