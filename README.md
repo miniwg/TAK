@@ -72,5 +72,6 @@ To confirm that the services have been added correctly. To check the services en
 sudo firewall-cmd --zone=public --list-services
 ```
 You should see `tak-base` and `tak-admin` in the list of allowed services.
+The fedhub service files can be added to a fed hub server using a similar process.
 ## 7. TDAL
 This directory contains alternate Coordinate Systems definitions files for use with the ATAK - TDAL plugin.
