@@ -43,7 +43,16 @@ To install: copy the file to `/etc/systemd/system/` directory Then:
 ```
 chown root: /etc/systemd/system/taklecr.timer
 chmod 644 /etc/systemd/system/taklecr.timer
-systemctl enable taklecr.timer
+systemctl enable --now taklecr.timer
+```
+Verify the timer is running:
+```
+systemctl list-timers taklecr.timer
+```
+This command should show the date\time of the NEXT run and the hours LEFT until then:
+```
+NEXT                        LEFT LAST PASSED UNIT          ACTIVATES      
+Mon 2026-10-05 04:00:00 UTC  17h -         - taklecr.timer taklecr.service
 ```
 ## 6. Firewalld
 This directory contains firewalld service files for the tak server services.  For a basic takserver the tak-base.xml and tak-admin.xml service files are required.  
